@@ -1,3 +1,4 @@
+
 # Car Instance Segmentation with YOLOv8-seg
 
 Fine-tuned YOLOv8s-seg model for car instance segmentation, fine-tuned on a small CCTV-domain dataset and tested live against a public traffic CCTV feed in Yogyakarta, Indonesia.
@@ -37,7 +38,7 @@ The notebook connects directly to a public CCTV HLS stream, runs frame-by-frame 
 
 Output includes a rendered `.mp4` with mask overlays and a `.json` file with per-run statistics.
 
-<!-- VIDEO-DEMO-PLACEHOLDER: paste the GitHub-hosted video embed here, see instructions in the pull request / issue description or ask for a reminder -->
+https://github.com/user-attachments/assets/c756e8a6-aba9-4951-80a5-4c7af73b843c
 
 ## Post-processing filters
 
