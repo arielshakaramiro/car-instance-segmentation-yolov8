@@ -1,0 +1,27 @@
+# Model weights
+*.pt
+*.onnx
+*.engine
+
+# Dataset downloads
+car-detection-*/
+merged_car_motorcycle/
+runs/
+
+# Live-stream outputs
+stream_output/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Editor / tooling
+.claude/
+.vscode/
+.idea/
