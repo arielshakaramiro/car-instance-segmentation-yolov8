@@ -22,6 +22,5 @@ __pycache__/
 .DS_Store
 
 # Editor / tooling
-.claude/
 .vscode/
 .idea/
